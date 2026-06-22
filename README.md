@@ -11,7 +11,7 @@ Estudante do 2º ano do Ensino Médio Técnico Integrado em Informática. Sou ap
 
 - 🎓 **Educação:** Ensino Médio Técnico em Informática (2º Ano)
 - 🎯 **Objetivo atual:** Aprender lógica de programação avançada, estruturas de dados e desenvolvimento web.
-- ⚡ **Fato curioso:** Adoro [insira um hobby aqui, ex: jogar, ouvir música, desmontar eletrônicos] nas horas vagas.
+- ⚡ **Fato curioso:** Adoro jogar e estudar nas horas vagas.
 
 ---
 
